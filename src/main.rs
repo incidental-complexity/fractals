@@ -30,6 +30,6 @@ fn main() {
     }
 
     // save as an svg
-    render::save(&canvas, "tests/svg/sierpinksi.svg", SvgRenderer::new()).expect("Failed to save")
+    render::save(&canvas, "drawings/svg/sierpinksi.svg", SvgRenderer::new()).expect("Failed to save")
 
 }
