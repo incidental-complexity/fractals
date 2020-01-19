@@ -1,0 +1,11 @@
+[package]
+name = "fractals"
+version = "0.1.0"
+authors = ["sethwm <sethwm@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+draw = "0.3.0"
+rand = "0.7.3"
